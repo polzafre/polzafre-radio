@@ -4,11 +4,13 @@ https://www.dropbox.com/scl/fi/3ugd9h98zdb7tvae80kx1/.mp4?rlkey=1ehb7f277z9xs76s
 
 #EXTINF:-1 group-title="РОК-МУЗЫКА", Радио 13
 http://play.radio13.ru/96
-#EXTINF:-1 group-title="РОК-МУЗЫКА", motoradio
-https://stream.motoradio.online/high-mp3
+#EXTINF:-1 group-title="РОК-МУЗЫКА", High Voltage
+https://strm112.1.fm/highvoltage_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 --------------------------
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Dance One
-https://strm112.1.fm/top40_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
+#EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Tropical House
+https://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 --------------------------
 #EXTINF:-1 group-title="HIP-HOP", 00s Hip Hop
 https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
@@ -19,4 +21,7 @@ https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8
 https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="PSYTRANCE", Trancemission
 https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8
+--------------------------
+#EXTINF:-1 group-title="ДЕТСКОЕ", KIDS
+https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 
