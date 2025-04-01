@@ -19,6 +19,8 @@ https://listen10.myradio24.com/pionerfm
 https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
 #EXTINF:-1 group-title="ПОПСА", PriMuzFM
 https://listen2.myradio24.com/8118
+#EXTINF:-1 group-title="ПОПСА", Open FM
+https://stream-cdn-1.open.fm/OFM167/ngrp:standard/playlist.m3u8?t=6b9ae128a6094193dc2a49ce4737ad8ae5d013e06ac5f8e356aeaf0e3467288f9eb14ac2e4c59db568c41dcfe2a5c702d262d1d802611393bff85df2bdf4d15318eb3b9d49ea8ede9301acf95b0360c0346d1f1b314a63c9a67d2a2da8dda6736820d782650dc5dfcae7152208a05c9b0953f07255e92401e762f43f12b463a60449c6391e974c99fe8be97b8a502bdfd3c83bc6a268456883bb647f43bff71302d300eef397d752f562d4bf82f4c327b145240150c9432ec339bb2f0d78dec2ce5ae8c26beaa4f348c04f5a0c3ce2b25af820bd640bc1b187ae93bad7fff58fc37f0b4fe41e894c91f80e6f2eb8c556
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Dance One
 https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Trance Hits
@@ -55,3 +57,4 @@ https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd373
 https://icecast-radonezh.cdnvideo.ru/rad128
 #EXTINF:-1 group-title="РАЗНОЕ", Воскресение
 https://inra3.pravradio.ru/stream.mp3
+
