@@ -17,12 +17,16 @@ https://ic1.radiosignal.one/vanya
 https://listen10.myradio24.com/pionerfm
 #EXTINF:-1 group-title="ПОПСА", Гоп FM
 https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1 group-title="ПОПСА", PriMuzFM
+https://listen2.myradio24.com/8118
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Dance One
 https://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true&listenerid=1743001209878_0.01621769389726002&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Trance Hits
 https://radiorecord.hostingradio.ru/trancehits96.aacp
 #EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 group-title="ТАНЦЫ-КЛУБ", Relax FM Gold
+https://pub0201.101.ru/stream/trust/mp3/128/266
 #EXTINF:-1 group-title="РЕТРО", Ретро FM
 https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
 #EXTINF:-1 group-title="РЕТРО", Радио Кассета
@@ -31,6 +35,8 @@ https://ppr90.status-media.ru/kasseta.mp3
 https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="HIP-HOP", Urban - Европа Плюс
 https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+#EXTINF:-1 group-title="HIP-HOP", Rap Hits
+https://radiorecord.hostingradio.ru/rap96.aacp
 #EXTINF:-1 group-title="PSYTRANCE", BOM Psytrance
 https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="PSYTRANCE", Relax FM
