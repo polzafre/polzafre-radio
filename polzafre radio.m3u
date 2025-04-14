@@ -46,8 +46,6 @@ https://icecast-radiovanya.cdnvideo.ru/radiovanya?60f0
 https://radiorecord.hostingradio.ru/sd9096.aacp?933126ed
 #EXTINF:-1 group-title="РЕТРО", РЕТРО ХИТ
 https://retro.amgradio.ru/Retro?f2e7
-#EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
-https://stream06.pcradio.ru/rad_dli-med
 
 ---------------------
 
@@ -66,9 +64,6 @@ https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd
 https://pub0302.101.ru:8000/stream/air/mp3/256/200
 #EXTINF:-1 group-title="PSYTRANCE", Relax FM Life
 https://pub0201.101.ru/stream/trust/mp3/128/267
-#EXTINF:-1 group-title="PSYTRANCE", Tropical - Радио Рекорд
-https://radiorecord.hostingradio.ru/trop96.aacp
-
 
 ---------------------
 
@@ -95,8 +90,6 @@ https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 https://icecast-radonezh.cdnvideo.ru/rad128
 #EXTINF:-1 group-title="РАЗНОЕ", Воскресение
 https://inra3.pravradio.ru/stream.mp3
-#EXTINF:-1 group-title="РАЗНОЕ", ЗВУКИ ПРИРОДЫ
-http://zvuki.amgradio.ru/Zvuki
 
 ---------------------
 
