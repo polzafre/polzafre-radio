@@ -48,10 +48,6 @@ https://radiorecord.hostingradio.ru/sd9096.aacp?933126ed
 https://retro.amgradio.ru/Retro?f2e7
 #EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
 https://stream06.pcradio.ru/rad_dli-med
-#EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
-https://stream06.pcradio.ru/rad_dli-med
-
-
 
 ---------------------
 
@@ -68,6 +64,11 @@ https://radiorecord.hostingradio.ru/rap96.aacp
 https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="PSYTRANCE", Relax FM
 https://pub0302.101.ru:8000/stream/air/mp3/256/200
+#EXTINF:-1 group-title="PSYTRANCE", Relax FM Life
+https://pub0201.101.ru/stream/trust/mp3/128/267
+#EXTINF:-1 group-title="PSYTRANCE", Tropical - Радио Рекорд
+https://radiorecord.hostingradio.ru/trop96.aacp
+
 
 ---------------------
 
@@ -75,6 +76,8 @@ https://pub0302.101.ru:8000/stream/air/mp3/256/200
 http://play.radio13.ru/96
 #EXTINF:-1 group-title="РОК-МУЗЫКА", Metallica - Радио Maximum
 https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1 group-title="РОК-МУЗЫКА", Biker FM
+https://listen4.myradio24.com/69846
 
 ---------------------
 
